@@ -49,17 +49,17 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>1hsXWe/QHsNL7ertZVFgcz+XkbVIuDuck+povlOtZC8=</dsig:DigestValue>
+        <dsig:DigestValue>Z6tCMp9bdY3Vr0NUwqhNxB3Pa9s/5WXW+OBM9Kh/UzY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="MalHow.exe.config" size="247">
+  <file name="MalHow.exe.config" size="499">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>VO0w0aCDpgCNWbrWGC5CmkInXwfZPsndHI/umHDwv4s=</dsig:DigestValue>
+      <dsig:DigestValue>RWQYKHF9fCLekqFKsW2BTUwWXInPU+jTOOSZ/hENU00=</dsig:DigestValue>
     </hash>
   </file>
   <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
