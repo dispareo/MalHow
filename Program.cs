@@ -25,7 +25,7 @@ namespace scvhost
 
             var uriBuilder = new UriBuilder();
             uriBuilder.Scheme = "http";
-            uriBuilder.Host = "wikipedia.com";
+            uriBuilder.Host = "dispareo.com";
             uriBuilder.Path = "/";
 
 
