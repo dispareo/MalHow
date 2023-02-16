@@ -19,13 +19,13 @@ namespace scvhost
             string s = "50m3th1n@Ph1$hy";
             foreach (char c in s)
             {
-                Console.WriteLine((int)c);
+                Console.WriteLine(c);
             };
 
 
             var uriBuilder = new UriBuilder();
             uriBuilder.Scheme = "http";
-            uriBuilder.Host = "wikipedia.com";
+            uriBuilder.Host = "dispareo.com";
             uriBuilder.Path = "/";
 
 
