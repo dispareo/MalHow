@@ -25,7 +25,7 @@ namespace scvhost
 
             var uriBuilder = new UriBuilder();
             uriBuilder.Scheme = "http";
-            uriBuilder.Host = "dispareo.com";
+            uriBuilder.Host = "medicinaldevices.com";
             uriBuilder.Path = "/";
 
 
@@ -40,7 +40,7 @@ namespace scvhost
             Console.WriteLine(headers);
 
 
-            var name = "dispareo.com";
+            var name = "medicinaldevices.com";
             IPHostEntry host = Dns.GetHostEntry(name);
             var addresses = host.AddressList;
 
