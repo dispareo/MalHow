@@ -43,14 +43,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MalHow.exe" size="144264">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MalHow.exe" size="145832">
       <assemblyIdentity name="MalHow" version="1.3.3.7" language="neutral" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>qeENEK1ZUhMRvfbEDEjz1V0cDfq4+GVyNyufxpi28x8=</dsig:DigestValue>
+        <dsig:DigestValue>7SS/5QUty3JihqhzEdG4zfAuLs7cJ03kpeJOGgSpAcI=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

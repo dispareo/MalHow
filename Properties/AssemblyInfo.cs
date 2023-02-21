@@ -1,4 +1,5 @@
-﻿using System.Reflection;
+﻿using System.Resources;
+using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
@@ -8,9 +9,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("MalHow")]
 [assembly: AssemblyDescription("A binary created for reverse engineering malware training by the University of Kansas Health System AIM team")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Dispareo Inc.")]
-[assembly: AssemblyProduct("MalHow")]
-[assembly: AssemblyCopyright("Copyright© University of Kansas Cybersecurity AIM team, 2023")]
+[assembly: AssemblyCompany("University of Kansas Health System Cybersecurity AIM team")]
+[assembly: AssemblyProduct("MalHow Malware Analysis Training binary")]
+[assembly: AssemblyCopyright("Copyright© University of Kansas Health System Cybersecurity AIM team, 2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -34,3 +35,4 @@ using System.Runtime.InteropServices;
 // [assembly: AssemblyVersion("1.0.*")]
 [assembly: AssemblyVersion("1.3.3.7")]
 [assembly: AssemblyFileVersion("1.3.3.7")]
+[assembly: NeutralResourcesLanguage("rwk")]
