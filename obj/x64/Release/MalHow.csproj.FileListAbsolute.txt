@@ -1,4 +1,3 @@
-C:\Users\dispareo\Documents\GitHub\MalHow\MalHow\bin\x64\Release\MalHow.exe.config
 C:\Users\dispareo\Documents\GitHub\MalHow\MalHow\bin\x64\Release\MalHow.exe
 C:\Users\dispareo\Documents\GitHub\MalHow\MalHow\bin\x64\Release\MalHow.pdb
 C:\Users\dispareo\Documents\GitHub\MalHow\MalHow\obj\x64\Release\MalHow.csproj.AssemblyReference.cache
@@ -6,8 +5,3 @@ C:\Users\dispareo\Documents\GitHub\MalHow\MalHow\obj\x64\Release\MalHow.csproj.S
 C:\Users\dispareo\Documents\GitHub\MalHow\MalHow\obj\x64\Release\MalHow.csproj.CoreCompileInputs.cache
 C:\Users\dispareo\Documents\GitHub\MalHow\MalHow\obj\x64\Release\MalHow.exe
 C:\Users\dispareo\Documents\GitHub\MalHow\MalHow\obj\x64\Release\MalHow.pdb
-C:\Users\dispareo\Documents\GitHub\MalHow\MalHow\bin\x64\Release\MalHow.exe.manifest
-C:\Users\dispareo\Documents\GitHub\MalHow\MalHow\bin\x64\Release\MalHow.application
-C:\Users\dispareo\Documents\GitHub\MalHow\MalHow\obj\x64\Release\MalHow.exe.manifest
-C:\Users\dispareo\Documents\GitHub\MalHow\MalHow\obj\x64\Release\MalHow.application
-C:\Users\dispareo\Documents\GitHub\MalHow\MalHow\obj\x64\Release\MalHow.TrustInfo.xml

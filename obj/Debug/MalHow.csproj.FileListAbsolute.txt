@@ -1,8 +1,0 @@
-C:\Users\dispareo\Documents\GitHub\MalHow\MalHow\bin\Debug\MalHow.exe.config
-C:\Users\dispareo\Documents\GitHub\MalHow\MalHow\bin\Debug\MalHow.exe
-C:\Users\dispareo\Documents\GitHub\MalHow\MalHow\bin\Debug\MalHow.pdb
-C:\Users\dispareo\Documents\GitHub\MalHow\MalHow\obj\Debug\MalHow.csproj.AssemblyReference.cache
-C:\Users\dispareo\Documents\GitHub\MalHow\MalHow\obj\Debug\MalHow.csproj.SuggestedBindingRedirects.cache
-C:\Users\dispareo\Documents\GitHub\MalHow\MalHow\obj\Debug\MalHow.csproj.CoreCompileInputs.cache
-C:\Users\dispareo\Documents\GitHub\MalHow\MalHow\obj\Debug\MalHow.exe
-C:\Users\dispareo\Documents\GitHub\MalHow\MalHow\obj\Debug\MalHow.pdb
