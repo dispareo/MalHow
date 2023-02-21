@@ -1,13 +1,13 @@
-#Questions & Answers 
+Questions & Answers 
  
 #Overview 
 This document is to give the Questions and Answers for the Malhow binary. At the end, there are hints available if you cannot complete this on your own.  
 
  
-#Questions and Answers 
+Questions and Answers 
 
 Basic Information  
-##Question: What is the product name of the app/Product?
+Question: What is the product name of the app/Product?
 Answer: MalHow Malware Analysis Training binary
 
 
