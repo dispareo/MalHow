@@ -1,28 +1,28 @@
 #Questions & Answers 
  
-Overview 
+#Overview 
 This document is to give the Questions and Answers for the Malhow binary. At the end, there are hints available if you cannot complete this on your own.  
 
  
-Questions and Answers 
+#Questions and Answers 
 
-Basic Information
-Question: What is the product name of the app/Product?
+Basic Information  
+##Question: What is the product name of the app/Product?
 Answer: MalHow Malware Analysis Training binary
 
 
-More Basic Information
+More Basic Information  
 Question: What is the File Version? 
 Answer: 1.3.3.7
 
 
 
-Console Output
+Console Output  
 Question: What char string does it output when ran?
 Answer: 50m3th1n@Ph1$hy 
 
 
-Strings Output
+Strings Output  
 Question: When you run strings, there is a little easter egg at the bottom. What movie is this from?
 Answer: Monty Python and the Holy Grail
 
